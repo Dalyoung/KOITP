@@ -1,0 +1,14 @@
+3 3
+EXX
+XSO
+OOX
+
+-1
+
+4 3
+OOSO
+OXXO
+OOEO
+
+4
+
